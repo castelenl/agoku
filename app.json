@@ -30,6 +30,18 @@
         "StoreFiles": {
             "description": "自定义网络地址读取存储文件列表",
             "value": "https://raw.githubusercontent.com/castelenl/xrianku/master/etc/StoreFiles"
+        },
+        "ArgoCERT": {
+            "description": "Argo CERT",
+            "value": "CERT"
+        },
+        "ArgoJSON": {
+            "description": "Argo JSON",
+            "value": "JSON"
+        },
+        "ArgoDOMAIN": {
+            "description": "Argo DOMAIN",
+            "value": "DOMAIN"
         }
     },
     "website": "https://github.com/mixool/xrayku",
